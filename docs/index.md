@@ -9,7 +9,3 @@ supports custom middleware and services via plugins.
     This is the documentation for Mashroom Server 3.x!
 
     For older versions checkout the documentation [here](https://www.mashroom-server.com/documentation).
-
-## Quick Start
-
-TODO

@@ -2,20 +2,16 @@
 
 Based on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 
-## Preview locally
+## Preview
 
 ### Install Material for MkDocs 
 
     pip install mkdocs-material
 
-Or with brew
+Or with brew on macOS:
 
     brew install mkdocs-material
 
-### Preview
+### Start server
 
     mkdocs serve
-
-
-
-
